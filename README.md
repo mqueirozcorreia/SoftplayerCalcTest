@@ -27,12 +27,12 @@ Deverá retornar a url de onde encontra-se o fonte no github
 Esperamos que a entrega tenha
 1) Código fonte em asp.net core no github (Mostrar conhecimento básico de git)
 2) Teste unitários (Mostrar conhecimento de testes unitários, se possível TDD)
+3) Utilização de Docker
 
 ## Extras
 1) O ideal é este código rodar em algum servidor seu, podemos combinar tempo que irá funcionar. Se não tiver avise o entrevistador.
 2) Teste de integração da API em linguagem de sua preferência (Damos importância para pirâmide de testes)
-3) Utilização de Docker
-4) Utilizar swagger
+3) Utilizar swagger
 
 ## Prazo e retorno
 Isso será combinado com quem você fez a entrevista. Você terá tempo para entender o cenário e nos retornar um prazo.
