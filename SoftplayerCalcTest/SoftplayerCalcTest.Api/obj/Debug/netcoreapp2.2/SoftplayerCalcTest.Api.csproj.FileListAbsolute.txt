@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.deps.json
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.runtimeconfig.json
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.dll
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.pdb
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Domain.dll
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\bin\Debug\netcoreapp2.2\SoftplayerCalcTest.Domain.pdb
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.RazorAssemblyInfo.cache
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.RazorAssemblyInfo.cs
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.AssemblyInfo.cs
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.RazorTargetAssemblyInfo.cache
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.csproj.CopyComplete
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.dll
+C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Api\obj\Debug\netcoreapp2.2\SoftplayerCalcTest.Api.pdb
