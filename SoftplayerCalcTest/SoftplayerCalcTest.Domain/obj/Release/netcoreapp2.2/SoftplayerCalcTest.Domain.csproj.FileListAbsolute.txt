@@ -1,7 +1,6 @@
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.deps.json
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.dll
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.pdb
-C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.csprojAssemblyReference.cache
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.csproj.CoreCompileInputs.cache
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.AssemblyInfoInputs.cache
 C:\Users\rodri\source\repos\SoftplayerCalcTest\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Release\netcoreapp2.2\SoftplayerCalcTest.Domain.AssemblyInfo.cs

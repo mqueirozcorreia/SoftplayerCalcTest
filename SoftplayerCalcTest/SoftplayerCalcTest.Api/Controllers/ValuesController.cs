@@ -22,7 +22,7 @@ namespace SoftplayerCalcTest.Api.Controllers
         }
 
         // GET api/values/5
-        [HttpGet("showmethecode")]
+        [HttpGet("/showmethecode")]
         public ActionResult<string> Get()
         {
             return "https://github.com/rodrigodosanjosoliveira/SoftplayerCalcTest.git";

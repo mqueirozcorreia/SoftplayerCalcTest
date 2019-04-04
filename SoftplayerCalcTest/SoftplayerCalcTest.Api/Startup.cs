@@ -12,14 +12,34 @@ namespace SoftplayerCalcTest.Api
         {
             Configuration = configuration;
         }
-
+        
         public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddSwaggerDocument();
+            services.AddSwaggerDocument(config =>
+            {
+                config.PostProcess = document =>
+                {
+                    document.Info.Version = "v1";
+                    document.Info.Title = "Calculator Test API";
+                    document.Info.Description = "A simple ASP.NET Core web API";
+                    document.Info.TermsOfService = "None";
+                    document.Info.Contact = new NSwag.SwaggerContact
+                    {
+                        Name = "Rodrigo Oliveira",
+                        Email = "rodrigodosanjosoliveira@gmail.com",
+                        Url = "https://github.com/rodrigodosanjosoliveira"
+                    };
+                    document.Info.License = new NSwag.SwaggerLicense
+                    {
+                        Name = "Use under LICX",
+                        Url = "https://example.com/license"
+                    };
+                };
+            });
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
