@@ -1,0 +1,8 @@
+﻿version: '3'
+
+services:
+  sitedadosnasa:
+    image: softplayercalctest
+    build:
+      context: ./SoftplayerCalcTest
+      dockerfile: Dockerfile
