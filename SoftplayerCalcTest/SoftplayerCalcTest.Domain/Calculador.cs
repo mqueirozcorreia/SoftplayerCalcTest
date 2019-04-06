@@ -4,7 +4,7 @@ namespace SoftplayerCalcTest.Domain
 {
     public class Calculador
     {
-        private const int CASAS_DECIMAIS = 2;
+        private const int CasasDecimais = 2;
 
         public Calculador(decimal valorInicial, int meses)
         {
@@ -14,21 +14,21 @@ namespace SoftplayerCalcTest.Domain
             Meses = meses;
         }
 
-        public Guid Id { get; private set; }
-        public decimal ValorInicial { get; private set; }
-        public double TaxaJuros { get; private set; }
-        public int Meses { get; private set; }
+        public Guid Id { get; }
+        public decimal ValorInicial { get; }
+        public double TaxaJuros { get; }
+        public int Meses { get; }
 
         public decimal ValorFinal()
         {
             var jurosTempo = (decimal)Math.Pow(TaxaJuros + 1, Meses);
-            return TruncateDecimal(ValorInicial * jurosTempo, CASAS_DECIMAIS);
+            return TruncateDecimal(ValorInicial * jurosTempo, CasasDecimais);
         }
         
-        private decimal TruncateDecimal(decimal valor, int casasDecimais)
+        private static decimal TruncateDecimal(decimal valor, int casasDecimais)
         {
-            decimal passo = (decimal)Math.Pow(10, casasDecimais);
-            decimal tmp = Math.Truncate(passo * valor);
+            var passo = (decimal)Math.Pow(10, casasDecimais);
+            var tmp = Math.Truncate(passo * valor);
             return tmp / passo;
         }
     }

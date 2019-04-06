@@ -10,13 +10,13 @@ namespace SoftplayerCalcTest.Tests.UnitTests.Controllers
         public void DeveRetornoValorFinal()
         {
             var controller = new ValuesController();
-            var valorInicial = 100M;
-            var meses = 5;
+            const decimal valorInicial = 100M;
+            const int meses = 5;
 
             var retorno = controller.Get(valorInicial, meses) as OkObjectResult;
 
-            Assert.Equal(200, retorno.StatusCode);
-            Assert.Equal(105.10M, retorno.Value);
+            Assert.Equal(200, retorno?.StatusCode);
+            Assert.Equal(105.10M, retorno?.Value);
 
         }
 
